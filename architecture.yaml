@@ -1,9 +1,0 @@
-architecture:
-  diagram: "docs/architecture.png"
-  modules:
-    - name: "API Service"
-      description: "Handles REST endpoints and business logic"
-    - name: "Web Client"
-      description: "Single-page React SPA"
-    - name: "Database"
-      description: "PostgreSQL storage"
