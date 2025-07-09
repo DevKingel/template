@@ -1,0 +1,27 @@
+ui_ux_design:
+  principles:
+    - "Consistency"
+    - "Simplicity"
+    - "Feedback"
+    - "Accessibility"
+  user_flows:
+    - id: "UF-001"
+      description: "<Entry-to-completion flow>"
+  wireframes:
+    - name: "Home Screen"
+      file: "design/wireframes/home.png"
+  mockups:
+    - name: "High-Fidelity Homepage"
+      file: "design/mockups/homepage.png"
+  style_guide:
+    colors:
+      primary: "#<hex>"
+      secondary: "#<hex>"
+      accent: "#<hex>"
+    typography:
+      - font_family: "<Font>"
+        usage: "Headings"
+      - font_family: "<Font>"
+        usage: "Body"
+  accessibility:
+    standards: "WCAG 2.1 AA"
